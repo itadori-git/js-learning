@@ -62,3 +62,21 @@
 // let id2 =Symbol("Hello");
 // console.log(id==id2);
 
+let a =("Mishan")
+let b = null;
+let c = 22;
+let d = true;
+let e = undefined;
+let f = 3.55;
+ console.log(typeof a,typeof b,typeof c,typeof d,typeof e,typeof f);
+
+
+ let p = {
+    "name" : "Mishan",
+    "job role" : "Developer",
+    "is_married" : false
+ }
+ console.log(p);
+
+ p.salary=50000;
+ console.log(p);
